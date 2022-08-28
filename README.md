@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Heartbeat Classification
 
 ## Objective
@@ -97,3 +98,8 @@ It was found that the model accuracy, both for the training and validation set, 
 ![confusion_matrix.svg](Heartbeat%20Classification%20547a5bfeae644a9db04fe93a7807af48/confusion_matrix.svg)
 
 It was found that there were lots of true positives and a few prediction errors.
+=======
+# heartbeat-classification
+
+Classify types of heartbeat using CNN.
+>>>>>>> cc8be49f1fd4a51898d4018868c95018a46c7877
